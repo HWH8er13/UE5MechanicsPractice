@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/Characters/Mannequins/Animations/Manny/MOB1_CrouchWalk_F.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/Characters/Mannequins/Animations/Manny/MOB1_Crouch_Idle_V2.uasset",
+				"C:/Users/henry/OneDrive/Documents/Unreal Projects/MechanicsPractice/Content/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC.uasset"
 			]
 		}
 	]
